@@ -1,3 +1,6 @@
+#not complete 
+
+
 #takes in the user input
 #splits the words into arrays? then letters into an array
 #set an index of one 
@@ -34,7 +37,7 @@ def repeat_letters
 end 
 #needs to pop the letter off the array for comparison 
 
-# repeat_letters
+# repeat_letters, TA Dan's solution 
 
 # require 'pry'
 # require 'colorize'
